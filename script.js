@@ -1,0 +1,1 @@
+console.log("A bunch of motivational gym quotes incoming...")
